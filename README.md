@@ -2,7 +2,7 @@
 
 I go by (he/him)
 
-I am a full-stack developer, game developer, 3D modeler, graphic artist, engineer, and a high-school student and computer/ML enthusiast from India. I'm also an avid cuber :)
+I am a full-stack developer, game developer, 3D modeler, graphic artist, robotics enthusiast, and a high-school student and computer/ML enthusiast from India. I'm also an avid cuber :)
 
 ## Skills
 
