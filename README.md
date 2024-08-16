@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Parthiv Pal
 
-<!--
-**Punity122333/Punity122333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I go by (he/him)
 
-Here are some ideas to get you started:
+I am a full-stack developer, game developer, 3D modeler, designer, graphic artist, engineer, and a high-school student and computer/ML enthusiast from India. I'm also an avid cuber :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,js,css,html,blender,c,cs,cpp,discord,dotnet,gradle,kotlin,latex,npm,opencv,ps,powershell,rust,arduino,java)](https://skillicons.dev)
+
+[![Editors/Engines I use](https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,unity,pycharm,webstorm,idea,blender,arduino,autocad,ps,sublime)](https://skillicons.dev)
+
+[![Modules/Frameworks I use/Concepts I know](https://skillicons.dev/icons?i=ai,pytorch,tensorflow,postgres,react,vite,sqlite)](https://skillicons.dev)
