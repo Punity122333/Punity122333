@@ -10,7 +10,7 @@ I am a full-stack developer, game developer, 3D modeler, graphic artist, robotic
 
 ## Editors/Engines I use
 
-[![Editors/Engines I use](https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,unity,pycharm,webstorm,idea,blender,arduino,autocad,ps,sublime)](https://skillicons.dev)
+[![Editors/Engines I use](https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,unity,pycharm,webstorm,idea,blender,arduino,autocad,ps,sublime,neovim)](https://skillicons.dev)
 
 ## Modules/Frameworks I use/Concepts I know
 
